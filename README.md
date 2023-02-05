@@ -1,10 +1,10 @@
-# Laravel Breeze - Next.js Edition 🏝️
+# Laravel Breeze - Next.js
 
 ## Introduction
 
 This repository is an implementing of the [Laravel Breeze](https://laravel.com/docs/starter-kits) application / authentication starter kit frontend in [Next.js](https://nextjs.org).
 
-## Official Documentation
+## From the Official Documentation
 
 ### Installation
 
